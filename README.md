@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @branthajek
-- 👀 I’m interested in front-end frameworks, programming paradigms, coding best practices, and how to be a better developer.
-- 🌱 I’m currently learning and practicing front-end engineering. After learning the basics (html and css), my biggest focus in recent years has been solidifying my Javascript knowledge. I moved on to focus on Typescript before tackling Angular and all of its many features, including NgRx. I have no shortage of things that interest me of which I intend to learn more about (or dive deeper into) such as React, Node JS, GraphQL, Express JS, MongoDB - just to name a few. 
+- 👋 Hi, I’m @branthajek and I'm a UI developer
+- 👀 I like learning about front-end frameworks, programming paradigms, coding best practices, and how to be a better developer
 - 📫 You can reach me via email (posted on my profile).
 
 <!---
